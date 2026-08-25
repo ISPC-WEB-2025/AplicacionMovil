@@ -1,0 +1,26 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Evitar binarios y builds dentro de subcarpetas (ej. app/build/)
+build/
+*/build/
+*.apk
+*.aab
+
+# Ignorar la carpeta .idea completa excepto archivos compartidos
+.idea/
+!.idea/codeStyles/
+!.idea/misc.xml
