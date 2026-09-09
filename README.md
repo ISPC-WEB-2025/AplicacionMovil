@@ -1,3 +1,3 @@
-# TodoStockApp
+# Aplicaciones Móviles
 
-Repositorio destinado al desarollo de aplicación movile de TodoStock 
+Repositorio destinado a la práctica de la materia aplicaciones móviles
