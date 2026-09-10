@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ispc.todostock'
+    namespace 'com.ispc.holamundo'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.ispc.todostock"
+        applicationId "com.ispc.holamundo"
         minSdk 24
         targetSdk 33
         versionCode 1
